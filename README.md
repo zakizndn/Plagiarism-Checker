@@ -1,7 +1,7 @@
 # Plagiarism Checker
 ECE3086 - Multimedia Technology and Applications 
 
-Project Title: Create an application software that assist lecturers to identify source code that has been copied or cloned from another student source code.
+Instruction: Create an application software that assist lecturers to identify source code that has been copied or cloned from another student source code.
 
 #### Requirement 1
 Program able to read the source file from an input folder where all the submitted source codes have been stored. It is assumed that the file name has the student ID. The student ID is extracted from the file name and stored in a simple file system.
