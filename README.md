@@ -1,5 +1,5 @@
 # Plagiarism Checker
-ECE3086 - Multimedia Technology and Applications 
+ECE3206 - Object Oriented Programming with C++
 
 Instruction: Create an application software that assist lecturers to identify source code that has been copied or cloned from another student source code.
 
